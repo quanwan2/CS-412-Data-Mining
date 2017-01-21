@@ -1,1 +1,1 @@
-__Written in Python__
+__Written in Python, detailed description is in the readme.txt.__
